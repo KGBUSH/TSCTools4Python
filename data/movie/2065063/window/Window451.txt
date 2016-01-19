@@ -1,0 +1,1 @@
+{"id":451,"startTime":4510.0,"endTime":4540.0,"userAlive":6,"numOfDanmaku":6,"averageLength":10,"userFeature":{"2b4cac0a": {"detail": "楚门的救赎"}, "D99734e4": {"detail": "好个敏锐的观察力-_-#"}, "909f9010": {"detail": "第一次假 第二次真"}, "9761b9d2": {"detail": "我擦，這時我家電話響了起來"}, "34c0c8c8": {"detail": " 这个妹子演过极度深寒"}, "7cdc83c8": {"detail": "没人看这个电影么。。。。"}}}

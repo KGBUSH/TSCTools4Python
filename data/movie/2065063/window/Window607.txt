@@ -1,0 +1,1 @@
+{"id":607,"startTime":6070.0,"endTime":6100.0,"userAlive":5,"numOfDanmaku":5,"averageLength":16,"userFeature":{"9d52ded7": {"detail": "Everybady lives in his/her personal reality."}, "5b93c675": {"detail": "领悟不到那么深的内涵 键盘侠们加油哦"}, "4de1689d": {"detail": "前面 说 我也是 的等等"}, "1adb03b0": {"detail": "不想走"}, "d164ae57": {"detail": "是你而已"}}}

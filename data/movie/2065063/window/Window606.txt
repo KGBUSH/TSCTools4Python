@@ -1,0 +1,1 @@
+{"id":606,"startTime":6060.0,"endTime":6090.0,"userAlive":5,"numOfDanmaku":5,"averageLength":10,"userFeature":{"0eabfd07": {"detail": "早安 午安 晚安"}, "5b93c675": {"detail": "领悟不到那么深的内涵 键盘侠们加油哦"}, "4de1689d": {"detail": "前面 说 我也是 的等等"}, "1adb03b0": {"detail": "不想走"}, "8910fc1e": {"detail": "2015.5.26"}}}

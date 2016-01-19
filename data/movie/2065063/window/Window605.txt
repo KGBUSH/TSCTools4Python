@@ -1,0 +1,1 @@
+{"id":605,"startTime":6050.0,"endTime":6080.0,"userAlive":7,"numOfDanmaku":7,"averageLength":6,"userFeature":{"0eabfd07": {"detail": "早安 午安 晚安"}, "4de1689d": {"detail": "前面 说 我也是 的等等"}, "67bdca8b": {"detail": "fuck u"}, "8910fc1e": {"detail": "2015.5.26"}, "91436451": {"detail": "QAQ"}, "1adb03b0": {"detail": "不想走"}, "e937d19a": {"detail": "2015627"}}}
